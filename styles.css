@@ -7,7 +7,7 @@ body {
 
 #mainTable {
     width: calc(100vw - 100px); /* Subtracting padding on both sides */
-    margin: 15px auto;
+    margin: 90px auto;
     border-spacing: 0 10px;
 }
 
