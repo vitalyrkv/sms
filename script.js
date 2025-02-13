@@ -38,14 +38,14 @@ document.addEventListener("DOMContentLoaded", function () {
     let SeventyTwoKM = {tag: "72KM", services: [BrakeMaintenance, BatteryService, Alignment, OilChange, TireRotaion]}
     let EightyKM = {tag: "80KM", services: [OilChange, TireRotaion ]}
     let EightyEightKM = {tag: "88KM", services: [OilChange, TireRotaion]}
-    let NinetySixKM = {tag: "96KM", services: [BrakeMaintenance, BrakeFluidService, MajorFuelService, AWDService, Alignment, BatteryService, OilChange, TireRotaion, TransmissionService]}
+    let NinetySixKM = {tag: "96KM", services: [BrakeMaintenance, BrakeFluidService, MajorFuelService, AWDService, BatteryService, Alignment, OilChange, TireRotaion, TransmissionService]}
 
     let OneO4KM = {tag: "104KM", services: [OilChange, TireRotaion]}
     let OneTwelveKM = {tag: "112KM", services: [OilChange, TireRotaion]}
     let OneTwentyKM = {tag: "120KM", services: [BrakeMaintenance, BatteryService, Alignment, OilChange, TireRotaion]}
     let OneTwentyEightKM = {tag: "128KM", services: [OilChange, TireRotaion]}
     let OneThirtySixKM = {tag: "136KM", services: [OilChange, TireRotaion]}
-    let OneFortyFourKM = {tag: "144KM", services: [BrakeMaintenance, BrakeFluidService, Alignment, AWDService, BatteryService, OilChange, TireRotaion, TransmissionService]}
+    let OneFortyFourKM = {tag: "144KM", services: [BrakeMaintenance, BrakeFluidService, Alignment, BatteryService, AWDService, OilChange, TireRotaion, TransmissionService]}
 
     let OneFiftyTwoKM = {tag: "152KM", services: [OilChange, TireRotaion]}
     let OneSixtyKM = {tag: "160KM", services: [OilChange, TireRotaion]}
